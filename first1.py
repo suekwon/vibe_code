@@ -4,7 +4,6 @@ import time
 # Timer app 제작 
 # 3min timer -> then alert by sound
 # display timer
-# git test 용 변경 주석을 추가했습니다.
 def main():
     st.title("Timer App")
     
