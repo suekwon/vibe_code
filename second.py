@@ -2,7 +2,7 @@ import streamlit as st
 import time
 
 # Streamlit 카운트다운 타이머
-
+# 네번 째 커밋입니다. 수정사항 devin 에서 직접 커밋해봅니다.
 
 def render_ring(remaining, duration):
     """남은 시간을 원형 진행 바(SVG)로 그린다."""
